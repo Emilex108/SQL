@@ -1,0 +1,34 @@
+Index: src/IndexCss.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>h1 {\n    text-align: center;\n    color: Black;\n    font-family: Sahadeva, sans-serif;\n}\n\nimg {\n    width: 15%;\n    height: 15%;\n\n}\n\na {\n    text-decoration: none;\n}\n\nsite {\n    margin: 25px;\n}\n\nmoodle {\n    margin: 25px;\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/IndexCss.css	(revision 18b4a3a88e9b7f338a5696423e88f0a87c185d98)
++++ src/IndexCss.css	(date 1622677574387)
+@@ -1,6 +1,4 @@
+-h1 {
+-    text-align: center;
+-    color: Black;
++*{
+     font-family: Sahadeva, sans-serif;
+ }
+ 
+@@ -14,10 +12,9 @@
+     text-decoration: none;
+ }
+ 
+-site {
+-    margin: 25px;
+-}
+-
+-moodle {
++.sites {
+     margin: 25px;
+-}
+\ No newline at end of file
++}
++
++
++
