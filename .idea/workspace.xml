@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11ef3e88-3eb0-437a-821a-185065987bd8" name="Default Changelist" comment="commit de florent pour vincent">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndexCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndexCss.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tP4wLErgUms73gcKliUGdAz5vx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ef3e88-3eb0-437a-821a-185065987bd8" name="Default Changelist" comment="" />
+      <created>1622657627408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622657627408</updated>
+      <workItem from="1622657645621" duration="7947000" />
+      <workItem from="1622676985527" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2" timestamp="1622673590953">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2/0.0.1920.1048@0.0.1920.1048" timestamp="1622673590953" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1622671262641">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1622671262641" />
+  </component>
+</project>

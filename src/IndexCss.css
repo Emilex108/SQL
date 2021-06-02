@@ -1,23 +1,64 @@
+* {
+    text-aling: right;
+    color: black;
+    font-family: Sahadeva, sans-serif;
+}
+
 h1 {
     text-align: center;
-    color: Black;
+    color: black;
     font-family: Sahadeva, sans-serif;
 }
 
 img {
-    width: 15%;
-    height: 15%;
-
+    display: block;
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
 }
 
-a {
+.image-sherbrooke {
+
+}
+.image-moodle {
+    max-width:100px;
+    max-height:100px;
+}
+
+.banderole {
+    background-color: #00a556;
+    max-height: 150px;
+    min-height: 150px;
+    margin-bottom: 25px;
+}
+
+a:link {
     text-decoration: none;
 }
 
-site {
-    margin: 25px;
+a:visited {
+    text-decoration: none;
 }
 
-moodle {
-    margin: 25px;
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.row:after {
+    display: table;
+}
+
+.col-1 {
+    min-width: 10%;
+}
+.col-2 {
+    width: 60%;
+}
+.col-3 {
+    width: 30%;
 }
