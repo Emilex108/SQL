@@ -1,4 +1,23 @@
-h1{
+h1 {
     text-align: center;
-    color: red;
+    color: Black;
+    font-family: Sahadeva, sans-serif;
+}
+
+img {
+    width: 15%;
+    height: 15%;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+site {
+    margin: 25px;
+}
+
+moodle {
+    margin: 25px;
 }
