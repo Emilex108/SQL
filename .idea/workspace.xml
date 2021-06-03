@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <list default="true" id="11ef3e88-3eb0-437a-821a-185065987bd8" name="Default Changelist" comment="commit de florent pour vincent">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -8,6 +9,10 @@
 =======
     <list default="true" id="9bfa77da-3ea6-49ed-87e1-6291604c286f" name="Default Changelist" comment="">
 >>>>>>> Stashed changes
+=======
+    <list default="true" id="11ef3e88-3eb0-437a-821a-185065987bd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IndexCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndexCss.css" afterDir="false" />
     </list>
@@ -80,8 +85,10 @@
       <option name="presentableId" value="Default" />
       <updated>1622657627408</updated>
       <workItem from="1622657645621" duration="7947000" />
-      <workItem from="1622676985527" duration="336000" />
+      <workItem from="1622676985527" duration="6275000" />
+      <workItem from="1622684999071" duration="62000" />
     </task>
+<<<<<<< HEAD
 =======
       <changelist id="9bfa77da-3ea6-49ed-87e1-6291604c286f" name="Default Changelist" comment="" />
       <created>1622657092430</created>
@@ -108,20 +115,39 @@
     </task>
     <option name="localTasksCounter" value="3" />
 >>>>>>> Stashed changes
+=======
+    <task id="LOCAL-00001" summary="commit 19:43">
+      <created>1622677415869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622677415869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="" />
+=======
+    <MESSAGE value="commit 19:43" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 19:43" />
+>>>>>>> master
   </component>
   <component name="WindowStateProjectService">
-    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2" timestamp="1622673590953">
+    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2" timestamp="1622677413134">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2/0.0.1920.1048@0.0.1920.1048" timestamp="1622673590953" />
+    <state x="515" y="84" width="883" height="881" key="CommitChangelistDialog2/0.0.1920.1048@0.0.1920.1048" timestamp="1622677413134" />
+    <state x="622" y="238" key="run.anything.popup" timestamp="1622683888236">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="622" y="238" key="run.anything.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1622683888236" />
     <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1622671262641">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
