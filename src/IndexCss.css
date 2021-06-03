@@ -18,10 +18,17 @@ img {
     height: auto;
 }
 
+.image-logo-site {
+    max-width: 450px;
+    min-height:150px;
+}
+
 .image-sherbrooke {
 
 }
+
 .image-moodle {
+    margin: 20px;
     max-width:100px;
     max-height:100px;
 }
@@ -30,7 +37,6 @@ img {
     background-color: #00a556;
     max-height: 150px;
     min-height: 150px;
-    margin-bottom: 25px;
 }
 
 a:link {
@@ -49,16 +55,37 @@ a:active {
     text-decoration: none;
 }
 
-.row:after {
-    display: table;
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+.col-container {
+    height: 100%
 }
 
 .col-1 {
-    min-width: 10%;
+    background-color: lightgray;
+    float: left;
+    width: 10%;
+    height: 100%;
 }
 .col-2 {
+    float: left;
     width: 60%;
+    height: 100%;
 }
 .col-3 {
+    background-color: lightgray;
+    float: left;
     width: 30%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 760px) {
+    [class*="col-"] {
+        border-bottom-style: solid;
+        border-bottom-width: medium;
+        width: 100%;
+    }
 }
