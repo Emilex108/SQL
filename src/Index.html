@@ -5,64 +5,87 @@
     <meta charset="UTF-8">
     <!-- CSS -->
     <link rel="stylesheet" href="IndexCss.css">
+    <link href="sidebars.css" rel="stylesheet">
 
     <!-- React -->
     <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
 
     <!-- Bootstrap -->
-    <!--<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>-->
-    <!--
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous>
-          -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet2"
+          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
 
     <!-- Barre de titre -->
     <title>Hub UdeS</title>
-    <link rel="icon" href="../img/logo2.png" type="image/png">
+    <link rel="icon" href="../img/logo1.png" type="image/png">
 
 </head>
 
 <header class="p-3 mb-3 border-bottom banderole">
     <div>
-        <img src="../img/udes.png" alt="logo-universite" class="image-sherbrooke">
+        <img src="../img/udes.png" alt="logo-universite">
         <img src="../img/logo2.png" alt="logo-site" class="image-logo-site">
-        <!--
-        <a class="no-underline" href="Index.html">
-            <img src="../img/logo.png" alt="logo">
-        </a>
 
-        <a href="#" class="link-dark">Reglage</a>
-        <a href="#" class="link-dark">Le projet</a>
-
-        <div class="text-end">
-            <a href="#" class="link-dark">Mon Compte</a>
-            <button type="button" class="btn btn-dark">Login</button>
-            <button type="button" class="btn btn-warning">Sign-up</button>
-        </div>
-         -->
     </div>
 </header>
 
 <body>
-    <!--
-    <div class="Container">
-     <div id="likeButtonContainer">
-         <script src="LikeButton.js"></script>
-     </div>
-     -->
     <div class="col-container">
         <div class="col-1">
-            <h1> allo </h1>
+            <h3><u> Ajouter un Widget </u></h3>
         </div>
         <div class="col-2">
-            <a href="https://www.usherbrooke.ca/moodle2-cours/">
-                <img src="../img/moodle.png" alt="logo" class="image-moodle">
+            <h3> <u>Hub centrale </u></h3>
+
+            <a href="https://www.usherbrooke.ca/moodle2-cours/" target="_blank">
+                <img src="../img/moodle.png" alt="logo" class="icon image-moodle">
             </a>
+
+            <a href="https://cas.usherbrooke.ca/login?service=https%3a%2f%2fwww.gel.usherbrooke.ca%2fs3i%2fe21%2f" target="_blank">
+                <img src="../img/siteSession.png" alt="logo" class="icon image-site">
+            </a>
+
+
+            <a href="https://cas.usherbrooke.ca/login?service=https%3A%2F%2Fwww.gel.usherbrooke.ca%2Fhorarius%2F" target="_blank">
+                <img src="../img/horarius.png" alt="logo" class="icon image-site">
+            </a>
+            <a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1622688870&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3dcbbeb4d7-df84-45ac-6811-15a679190571&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015" target="_blank">
+                <img src="../img/outlook.png" alt="logo" class="icon image-site">
+            </a>
+
+            <a href="https://authentification.usherbrooke.ca/adfs/ls/" target="_blank">
+                <img src="../img/portail.jpg" alt="logo" class="icon image-site">
+            </a>
+
+            <a href="  https://trivio.usherbrooke.ca/home.htm" target="_blank">
+                <img src="../img/trivio.jpg" alt="logo" class="icon image-site">
+            </a>
+
+
         </div>
-        <div class="col-3">
-            <h1> allo </h1>
+        <div id="col-3">
+            <h3> <u> Aciennes Notifications </u></h3>
+
+            <div class="Container-notification">
+                <div id="likeButtonContainer">
+                 <script src="LikeButton.js"></script>
+             </div>
+
+            <div class="list-group list-group-flush border-bottom scrollarea">
+                <a href="#" class="list-group-item list-group-item-action active py-3 lh-tight" aria-current="true">
+                    <div class="d-flex w-100 align-items-center justify-content-between">
+                        <strong class="mb-1">Notifications</strong>
+                        <small>Mercredi</small>
+                    </div>
+                    <div class="col-10 mb-1 small">Nouveau document sur le site de session dans : APP2.</div>
+                </a>
+            </div>
+
+        </div>
         </div>
     </div>
 </body>
